@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\repeat\NewTask\NewTask\bin\Debug\NewTask.exe.config
+C:\Users\user\Desktop\repeat\NewTask\NewTask\bin\Debug\NewTask.exe
+C:\Users\user\Desktop\repeat\NewTask\NewTask\bin\Debug\NewTask.pdb
+C:\Users\user\Desktop\repeat\NewTask\NewTask\obj\Debug\NewTask.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\repeat\NewTask\NewTask\obj\Debug\NewTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\repeat\NewTask\NewTask\obj\Debug\NewTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\repeat\NewTask\NewTask\obj\Debug\NewTask.exe
+C:\Users\user\Desktop\repeat\NewTask\NewTask\obj\Debug\NewTask.pdb
